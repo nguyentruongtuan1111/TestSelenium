@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestSelenium.exe" size="23952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestSelenium.exe" size="24464">
       <assemblyIdentity name="TestSelenium" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AVpnKaWcLAVuU25YK/77CRDKIn5LgbWDE/BzXb3MBqc=</dsig:DigestValue>
+        <dsig:DigestValue>ElASbe1SeT5m5MaTe9PrDT863P0n5z4cBztWaaGhSk8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
