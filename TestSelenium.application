@@ -3,15 +3,18 @@
   <assemblyIdentity name="TestSelenium.application" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="TestSelenium" asmv2:product="TestSelenium" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="TestSelenium.exe.manifest" size="4642">
+    <dependentAssembly dependencyType="install" codebase="TestSelenium.exe.manifest" size="4118">
       <assemblyIdentity name="TestSelenium.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qruI5NkzLWCmXCpk3wFeBu8n+7E=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sPX+OC9wgbtZ/1bjIJKE4uYk/0/MABm4Gr9aAhAfRvY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
