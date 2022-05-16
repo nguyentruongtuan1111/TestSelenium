@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestSelenium.exe" size="24464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestSelenium.exe" size="25488">
       <assemblyIdentity name="TestSelenium" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>77I1jfoBL7eOmXIgb7wYViJH0ZSsl/sihaxqFVEnSQg=</dsig:DigestValue>
+        <dsig:DigestValue>YkjqR00zPxpH8uGHb3NpogK2Bm2mtv7Na4WyLbHm7SM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,6 +62,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>BV3Z/KSyBT1BOXkAy4yXau+pK12oMan1qPRToYbTlrA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.Support.dll" size="35328">
+      <assemblyIdentity name="WebDriver.Support" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>N2iWXLzo42SSRMpI/KPGFbZTLUow+yWYGJJ4TiYU2yM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
